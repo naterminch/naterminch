@@ -1,0 +1,5 @@
+# design-tool workspace (local only)
+PRODUCT.md
+.impeccable/
+.fonts/
+__pycache__/
